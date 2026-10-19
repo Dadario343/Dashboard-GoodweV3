@@ -6,8 +6,7 @@ Sistema de gerenciamento de recarga de veículos elétricos que integra **geraç
 
 | | |
 |---|---|
-| 🎬 **Vídeo técnico (YouTube, não listado)** | **[COLE AQUI O LINK DO VÍDEO]** |
-| 📦 **Repositório** | **[COLE AQUI O LINK DO REPOSITÓRIO]** |
+| 🎬 **Vídeo técnico (YouTube, não listado)** | **[https://youtu.be/U_GXdJe05Hk]** |
 | 📄 **Documentação em PDF** | [`ReCargaV3/docs/ReCarga_Documentacao_Sprint4.pdf`](./ReCargaV3/docs/ReCarga_Documentacao_Sprint4.pdf) |
 
 ---
