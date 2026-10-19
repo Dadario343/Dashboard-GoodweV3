@@ -314,8 +314,6 @@ Reproduza com `python simulation/run_scenarios.py`. Resultados brutos: `simulati
 
 ¹ 22 kg CO₂/árvore/ano, equivalência didática. ² Receita das recargas − custo líquido da rede (já com crédito de injeção); **ignora investimento** nos equipamentos.
 
-![Comparação de cenários](docs/img/sim_cenarios.png)
-
 ### O que os números mostram
 
 * **Solar sozinha (A→B):** custo da rede cai de R$ 3.471 para R$ 1.037 e 62,9% do consumo vira renovável. Porém a compra na **ponta não muda** (795 kWh), porque o sol já se pôs.
@@ -323,8 +321,6 @@ Reproduza com `python simulation/run_scenarios.py`. Resultados brutos: `simulati
 * **IA preditiva (C→D):** a fatia renovável é a **mesma** (78,8%): a IA **não cria energia, desloca-a**. Mas ao guardá-la para a ponta, reduz o custo líquido da rede em **63%** (R$ 440 → R$ 161) e a compra na ponta em **57%** (380 → 165 kWh). É um ganho **financeiro e de redução de pico**, não de carbono.
 * **Qualidade de serviço:** a demanda atendida sobe de 85,7% para 95,3%, pois a geração local amplia a capacidade acima dos 40 A contratados (por isso o cenário A entrega menos energia e as comparações de custo devem ser lidas junto do "custo por kWh entregue").
 * **Dimensionamento:** o gráfico abaixo varia a bateria de 0 a 60 kWh no modo IA. Há **retornos decrescentes**: de 30 → 45 kWh a compra na ponta cai de 165 para 12 kWh, mas de 45 → 60 kWh o ganho é marginal. Com ≥ 45 kWh o custo líquido fica **negativo** porque o crédito de injeção (valor ilustrativo de R$ 0,45/kWh) supera a compra de rede.
-
-![Sensibilidade à capacidade da bateria](docs/img/sim_sensibilidade_bateria.png)
 
 > ⚠️ **Sobre a honestidade da comparação.** Numa primeira versão, o cenário C só usava a bateria para "complementar capacidade" e ficou *pior* que B, uma comparação injusta. Ao perceber, reescrevemos C como o **autoconsumo** que inversores híbridos reais usam por padrão. O ganho da IA reportado aqui é, portanto, sobre uma referência razoável, e não sobre um adversário fraco.
 
