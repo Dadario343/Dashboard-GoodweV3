@@ -7,7 +7,6 @@ Sistema de gerenciamento de recarga de veículos elétricos que integra **geraç
 | | |
 |---|---|
 | 🎬 **Vídeo técnico (YouTube, não listado)** | **[COLE AQUI O LINK DO VÍDEO]** |
-| 📦 **Repositório** | **[COLE AQUI O LINK DO REPOSITÓRIO]** |
 
 ---
 
