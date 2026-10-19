@@ -439,5 +439,3 @@ ReCargaV3/
 | **`goodwe`** (biblioteca Python open-source) | Leitura de inversores GoodWe (opcional) |
 | **GoodWe** (inversores ET, baterias Lynx, wallbox HCA, SEMS Portal) | Ecossistema de referência do desafio |
 | **Sensor de efeito Hall · ESP32 · QR Code** | Arquitetura de aquisição planejada nas Sprints 1–2 |
-
-Documentação da Sprint 3: [`docs/sprint3/ReCarga_Sprint3_Documentacao.pdf`](.ReCargaV3/docs/sprint3/).
