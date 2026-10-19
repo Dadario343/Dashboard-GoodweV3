@@ -1,0 +1,16 @@
+SPRINT 4 - Solucao Final Integrada e Inovadora GoodWe
+Projeto: ReCarga - Recarga veicular inteligente com solar, bateria e IA preditiva
+
+INTEGRANTES
+Olavo Dadario Vianna Barreto - RM 569272
+Mateus de Oliveira Fernandes Neves - RM 572431
+Angela Sousa Takezawa - RM 570797
+Paulo Henrique Lira Bilac de Araujo - RM 569496
+Pedro Soares de Souza - RM 571285
+Jhon Cutile Titirico - RM 571976
+
+VIDEO (YouTube, nao listado):
+COLE_AQUI_O_LINK_DO_VIDEO
+
+REPOSITORIO (GitHub):
+COLE_AQUI_O_LINK_DO_REPOSITORIO
