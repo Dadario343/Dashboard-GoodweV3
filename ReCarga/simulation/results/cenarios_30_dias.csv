@@ -1,5 +1,0 @@
-cenario,descricao,energia_entregue_kwh,energia_rede_kwh,energia_rede_ponta_kwh,solar_direta_kwh,bateria_kwh,excedente_injetado_kwh,participacao_renovavel_pct,demanda_atendida_pct,custo_rede_liquido_rs,economia_vs_referencia_rs,receita_rs,margem_operacional_rs,co2_evitado_kg,arvores_equivalentes,limitacoes_de_carga,sobrecargas_evitadas_pela_geracao_local
-A,Referência (só rede),3750.4,3750.4,795.1,0.0,0.0,0.0,0.0,85.7,3471.42,0.0,4617.12,1145.69,0.0,0.0,60,0
-B,Solar sem bateria,4081.5,1514.0,795.1,2567.5,0.0,2179.3,62.9,93.3,1037.07,2649.53,4941.54,3904.47,300.4,13.65,30,60
-C,Solar + bateria (autoconsumo),4168.7,883.8,379.9,2567.5,717.4,1395.4,78.8,95.3,440.41,3416.22,5027.02,4586.61,384.3,17.47,30,60
-D,Solar + bateria + IA,4169.0,884.0,165.1,2567.5,717.4,1395.4,78.8,95.3,161.36,3695.79,5027.28,4865.92,384.3,17.47,31,61

@@ -1,4 +1,0 @@
-# O dashboard NÃO exige nenhuma dependência (somente a biblioteca padrão do Python).
-# Opcionais:
-matplotlib>=3.7      # gráficos de simulation/run_scenarios.py
-# goodwe>=0.4        # telemetria real de inversores GoodWe (defina GOODWE_HOST)
